@@ -1,0 +1,7 @@
+# Entorno virtual
+.venv/
+__pycache__/
+
+# Fotos de rostros y modelo entrenado (datos personales; se regeneran con capturar/entrenar)
+Data/
+modeloLBPH.xml
